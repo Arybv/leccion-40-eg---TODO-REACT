@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
   const Header = (update) => {
     const header = $('<header></header>');
